@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GeolocationApp.MainPage">
+
+    <StackLayout>
+        <Button x:Name="locationGet" Text="Get Loacation" FontSize="20" Clicked="locationGet_Clicked"/>
+        <Label x:Name="locaTXT" FontSize="20" TextColor="Black"/>
+        <Label Text=" " FontSize="20" TextColor="Black"/>
+        <Label x:Name="localeTXT" FontSize="28" TextColor="Black"/>
+        <Button x:Name="click" Text="Location go" Clicked="click_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

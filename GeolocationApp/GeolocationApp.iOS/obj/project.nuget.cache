@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGK/HZRjuzhJF3mP9t0hyrjoft7NV4ZgCglVjeu17l6pRu4HkAjmkXomwyiNqlpSgM1oVumly22Z+bqjn0YF0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akyz6\\Xamarin\\GeolocationApp\\GeolocationApp\\GeolocationApp.iOS\\GeolocationApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
